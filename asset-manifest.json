@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/surya222345/surya1tech.git/static/css/main.e6c13ad2.css",
-    "main.js": "/surya222345/surya1tech.git/static/js/main.75cc52da.js",
-    "static/js/453.cc607e55.chunk.js": "/surya222345/surya1tech.git/static/js/453.cc607e55.chunk.js",
-    "index.html": "/surya222345/surya1tech.git/index.html",
-    "main.e6c13ad2.css.map": "/surya222345/surya1tech.git/static/css/main.e6c13ad2.css.map",
-    "main.75cc52da.js.map": "/surya222345/surya1tech.git/static/js/main.75cc52da.js.map",
-    "453.cc607e55.chunk.js.map": "/surya222345/surya1tech.git/static/js/453.cc607e55.chunk.js.map"
+    "main.css": "/mm/static/css/main.e6c13ad2.css",
+    "main.js": "/mm/static/js/main.ecede1be.js",
+    "static/js/453.cc607e55.chunk.js": "/mm/static/js/453.cc607e55.chunk.js",
+    "index.html": "/mm/index.html",
+    "main.e6c13ad2.css.map": "/mm/static/css/main.e6c13ad2.css.map",
+    "main.ecede1be.js.map": "/mm/static/js/main.ecede1be.js.map",
+    "453.cc607e55.chunk.js.map": "/mm/static/js/453.cc607e55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.75cc52da.js"
+    "static/js/main.ecede1be.js"
   ]
 }
